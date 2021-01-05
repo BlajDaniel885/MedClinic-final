@@ -1,0 +1,44 @@
+﻿body {
+    margin: 0;
+    overflow-x: hidden;
+    height: 1085px;
+    
+}
+
+
+.header {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: white;
+    padding: 20px;
+    text-align: left;
+    height: 201px;
+    width: 1445px;
+}
+
+.auto-style1 {
+    width: 180px;
+    height: 135px;
+}
+
+.auto-style4 {
+    width: 1002px;
+    height: 142px;
+}
+
+.auto-style1 {
+    height: 182px;
+}
+
+.auto-style4 {
+    height: 184px;
+    width: 1219px;
+}
+
+.auto-style5 {
+    width: 516px;
+    height: 412px;
+    margin-top: 0px;
+}
